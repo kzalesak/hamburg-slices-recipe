@@ -1,6 +1,6 @@
 Hamburské řezy
 ==============
-> - 360 g of plain flour (450 finely milled, dry)
+> - 360 g of wheat flour (finely milled, dry, T650 using Czech notation - see attached article)
 > - 80 to 100 g chocolate
 > - 160 g of butter (82%)
 > - 6 egg yolks
@@ -33,9 +33,9 @@ Once the meringue is sufficiently firm, we take it off the hot water bath and le
 Gently mix the chopped walnuts, almonds, chocolate and cinnamon into the now-cold meringue. It is important that you mix gently, otherwise you risk releasing too much bubbles from the meringue. Do not add the chocolate into the meringue while it is hot, or the chocolate will melt, which we want to avoid.
 
 ## Adding it all together
-> - marmalade (apricot, strawberry or other - it should be somewhat sour)
+> - jam, also known as fruit preserve (apricot, strawberry are best, other is fine too - it should be somewhat sour)
 
-Take out the cooled dough that you separated into rolls earlier. Cut about a third of each one and roll it into a rectangular base about 2 to 3 mm (milimeters) thick and about 8 to 10 mm (milimeters) wide. They should be as long as necessary to fit into your oven. Spread a rather thin layer of marmalade over the slice, leaving roughly 4 mm thick area around the edges uncovered. This will make the slices look nicer and prevent the marmalade from dripping off the base. Using a spoon, spread the meringue (with nuts, chocolate and cinnamon already mixed in) over the marmalade. The meringue layer should be 5x or 6x times thicker then the base, or, if the base is according to the recipe, about 15 to 20 mm thick.
+Take out the cooled dough that you separated into rolls earlier. Cut about a third of each one and roll it into a rectangular base about 2 to 3 mm (milimeters) thick and about 8 to 10 mm (milimeters) wide. They should be as long as necessary to fit into your oven. Spread a rather thin layer of jam over the slice, leaving roughly 4 mm thick area around the edges uncovered. This will make the slices look nicer and prevent the jam from dripping off the base. Using a spoon, spread the meringue (with nuts, chocolate and cinnamon already mixed in) over the jam. The meringue layer should be 5x or 6x times thicker then the base, or, if the base is according to the recipe, about 15 to 20 mm thick.
 
 ## Baking
 To bake, place the covered bases onto a tray and bake in an oven.  Preheat the oven to 200°C, then after a short while, reduce the temperature to 170°C. If it seems to be baking to fast, you can also reduce to 150°C. The goal of the baking is to make the meringue slightly crispy on top, firm but chewy in the middle, and the base well done so as to remove the taste of raw flower. If the meringue is being cooked much faster then the base, you can cover the top of the slices with either aluminium foil or a paper napkin, lower the heat to 150°C and keep baking. Once sufficiently done, take the tray out of the oven and place it on a cold surface in order to quickly stop the baking process.
