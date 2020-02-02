@@ -45,11 +45,11 @@ It is important that you mix gently, otherwise you risk releasing too much bubbl
 ## Adding it all together
 > - jam, also known as fruit preserve (apricot, strawberry are best, other is fine too - it should be somewhat sour)
 
-Take out the cooled dough that you separated into rolls earlier. Cut about a third of each one and roll it into a rectangular base about 3 to 4 mm (millimetres) thick and about 80 to 100 mm (millimetres) wide. SEE IMAGE _cutting strips_.
+Take out the cooled dough that you separated into rolls earlier. Cut about a third of each one and roll it into a rectangular base about 3 to 4 mm (millimetres) thick and about 80 to 100 mm (millimetres) wide. We call this a strip. SEE IMAGE _cutting strips_.
 
 ![Cutting strips on a wooden board with decorative cutter](recipe_photos/cutting_strips.jpg)
 
-They should be as long as necessary to fit into your oven. Spread a rather thin layer of jam over the slice, leaving roughly 4 mm thick area around the edges uncovered. This will make the slices look nicer and prevent the jam from dripping off the base. SEE IMAGE _strips on tray with jam_.
+The strips should be as long as necessary to fit into your oven. Spread a rather thin layer of jam over the slice, leaving roughly 4 mm thick area around the edges uncovered. This will make the slices look nicer and prevent the jam from dripping off the base. SEE IMAGE _strips on tray with jam_.
 
 ![Strips on tray with jam on them](recipe_photos/strips_with_jam.jpg)
 
