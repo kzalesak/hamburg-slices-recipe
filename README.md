@@ -8,6 +8,11 @@ The recipe enclosed is one of the best recipes of my grandma, which she usually 
  
  Why it is called Hamburg slices, after the city of Hamburg in Germany, I do not know.
 
+## Finished product
+The finished slices should look something like this:
+![Side view of a baked cut slice, not yet decorated](recipe_photos/single_finished_undecorated_small.jpg)
+_They are delicious_
+
 ## Origins of the recipe
 My grandma, who lives in a small town in the south-east region of the Czech Republic, a country which itself lies in the centre of a continent called Europe, is a well renowned cook. She has never made cooking her work (that she would do for a living), but her skills of how to prepare food set her apart from most people that I know. 
 

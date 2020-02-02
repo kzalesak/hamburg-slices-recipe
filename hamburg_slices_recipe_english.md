@@ -27,7 +27,7 @@ Boiling water has a temperature of about 100°C all throughout, which makes it e
 
 
 Pour the egg whites into a hot water bath, add the pinch of salt and start mixing the eggs using an electrical mixer whilst heating the water. Once the egg whites start foaming up, add the sugar and continue mixing. The meringue is ready once a wooden spoon dipped into it will remain standing upright. It is important that this is done in the heated hot water bath, as the heat treatment will make the meringue firmer and will prevent it from collapsing later.
-Once the meringue is sufficiently firm, we take it off the hot water bath and let it cool in a cool place or the refrigerator (around 10 degrees celsius). Whilst the meringue cools, we can gently mix it one or two times so that it cools quicker and more evenly.
+Once the meringue is sufficiently firm, we take it off the hot water bath and let it cool in a cool place or the refrigerator (around 10 degrees Celsius). Whilst the meringue cools, we can gently mix it one or two times so that it cools quicker and more evenly.
 
 ## To mix into meringue
 > - 150 g of almonds, chopped into mid-sized bits
@@ -45,7 +45,7 @@ It is important that you mix gently, otherwise you risk releasing too much bubbl
 ## Adding it all together
 > - jam, also known as fruit preserve (apricot, strawberry are best, other is fine too - it should be somewhat sour)
 
-Take out the cooled dough that you separated into rolls earlier. Cut about a third of each one and roll it into a rectangular base about 3 to 4 mm (milimeters) thick and about 80 to 100 mm (milimeters) wide. SEE IMAGE _cutting strips_.
+Take out the cooled dough that you separated into rolls earlier. Cut about a third of each one and roll it into a rectangular base about 3 to 4 mm (millimetres) thick and about 80 to 100 mm (millimetres) wide. SEE IMAGE _cutting strips_.
 
 ![Cutting strips on a wooden board with decorative cutter](recipe_photos/cutting_strips.jpg)
 
@@ -58,7 +58,7 @@ Using a spoon, spread the meringue (with nuts, chocolate and cinnamon already mi
 ![Side view of a strip with jam and meringue](recipe_photos/side_view_strip_meringue.jpg)
 
 ## Baking
-To bake, place the covered bases onto a tray and bake in an oven.  Preheat the oven to 200°C, then after a short while, reduce the temperature to 170°C. If it seems to be baking to fast, you can also reduce to 150°C. The goal of the baking is to make the meringue slightly crispy on top, firm but chewy in the middle, and the base well done so as to remove the taste of raw flower. SEE IMAGE _single cut slice, not yet decorated_
+To bake, place the covered bases onto a tray and bake in an oven.  Preheat the oven to 200°C, then after a short while, reduce the temperature to 170°C. If it seems to be baking too fast, you can also reduce to 150°C. The goal of the baking is to make the meringue slightly crispy on top, firm but chewy in the middle, and the base well done so as to remove the taste of raw flower. SEE IMAGE _single cut slice, not yet decorated_
 ![Side view of a baked cut slice, not yet decorated](recipe_photos/single_finished_undecorated_small.jpg)
 
 If the meringue is being cooked much faster then the base, you can cover the top of the slices with either aluminium foil or a paper napkin, lower the heat to 150°C and keep baking. Once sufficiently done, take the tray out of the oven and place it on a cold surface in order to quickly stop the baking process.
@@ -74,3 +74,4 @@ Align the 2 mm slices next to each other on a large tray. SEE IMAGE _slices cut,
 
 Melt the butter and chocolate in a cup in a hot water bath (same style as described in the meringue section). The exact ratio of butter and chocolate will depend on your type of chocolate and butter. Once melted, it should be liquid enough to allow smooth flow, but thick enough so it can solidify after cooling down. Once the mixture is liquid enough, take a spoon and pour thin strands of chocolate over the whole tray. This can be done by repeatedly dipping the spoon into the mixture and flicking it left and right over the tray.
 
+Wait until the chocolate solidifies and enjoy! They should be stored in an airtight box in cold temperatures (around 10°C) and should last fresh about 15 days.
